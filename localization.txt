@@ -1,17 +1,17 @@
-englis
+english
 
 
-WIN_COULNT_START_PROCESS
+WIN_COULDNOT_START_PROCESS
 "Could not start process."
 
 
 WIN_CONFIGURE_UPDATED_TITLE
-"Remmended Settings Updated"
+"Recommended Settings Updated"
 
 
-WIN_CONFIGUR_UPDATED_BODY
-"The recoended settings have been updated since the last time you ran Call of Duty.
-Would you like the gam to configure itself optimally with these new settings?
+WIN_CONFIGURE_UPDATED_BODY
+"The recommended settings have been updated since the last time you ran Call of Duty.
+Would you like the game to configure itself optimally with these new settings?
 
 This is recommended for most people.  It will change your system settings but not your controls."
 
@@ -31,10 +31,10 @@ WIN_LOW_MEMORY_TITL
 
 
 WIN_UPDATE_DRIVER_BOY
-"Your video card drivrs are out of date, please go to the manufaturer's 
+"Your video card drivers are out of date, please go to the manufacturer's 
 website to download ad install newer ones or the game may not run correctly. 
 
-Would you like more inormation on how to update your drivers?"
+Would you like more information on how to update your drivers?"
 
 
 
@@ -63,7 +63,7 @@ It will change your system settings but not your controls."
 
 
 WIN_COMPUTR_CHANGE_TITLE
-"Set Opimal Settings?"
+"Set Optimal Settings?"
 
 
 WIN_DISK_FULL_BDY

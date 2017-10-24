@@ -1,7 +1,7 @@
-1. Stup_MP3.exe, Stup_MP3-1.bin, dsk1.bin, atorun.inf
+1. Setup_MP3.exe, Setup_MP3-1.bin, disk1.bin, autorun.inf
 
-2. dsk2.bin
+2. disk2.bin
 
-3. dsk3_1.bin, dsk3_2.bin, dsk3_3.bin, dsk3_4.bin, dsk3_5.bin
+3. disk3_1.bin, disk3_2.bin, disk3_3.bin, disk3_4.bin, disk3_5.bin
 
-4. dsk4.bin
+4. disk4.bin

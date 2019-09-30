@@ -1,113 +1,105 @@
-english
-
-
-WIN_COULDNT_START_PROCESS
-"Could not start process."
-
-
-WIN_CONFIGURE_UPDATED_TITLE
-"Recommended Settings Updated"
-
-
-WIN_CONFIGURE_UPDATED_BODY
-"The recommended settings have been updated since the last time you ran Call of Duty.
-Would you like the game to configure itself optimally with these new settings?
-
-This is recommended for most people.  It will change your system settings but not your controls."
-
-
-
-WIN_LOW_MEMORY_BODY
-"It looks like you are low on virtual memory.
-This can cause the game to run slowly and it may stop completely.
-It is highly recommended that you close some programs before running Call of Duty.
-
-Do you want to run Call of Duty anyway?"
-
-
-WIN_LOW_MEMORY_TITLE
-"Low Memory"
-
-
-
-WIN_UPDATE_DRIVER_BODY
-"Your video card drivers are out of date, please go to the manufacturer's 
-website to download and install newer ones or the game may not run correctly. 
-
-Would you like more information on how to update your drivers?"
-
-
-
-WIN_UPDATE_DRIVER_TITLE
-"Old Drivers"
-
-
-
-WIN_INSTALL_MFPLAT
-"Black Ops III requires installation of the Windows Media Feature Pack.
-
-Click yes for more information on how to download."
-
-
-
-WIN_INSTALL_MFPLAT_TITLE
-"Windows Media Feature Pack Missing"
-
-
-WIN_COMPUTER_CHANGE_BODY
-"Your computer appears to have changed since the last time you ran Call of Duty.
-Would you like the game to configure itself optimally for your new hardware?
-
-This is recommended for most people.
-It will change your system settings but not your controls."
-
-
-WIN_COMPUTER_CHANGE_TITLE
-"Set Optimal Settings?"
-
-
-WIN_DISK_FULL_BODY
-"Call of Duty: Black Ops III couldn't write a file.  The hard drive is probably full."
-
-
-WIN_DISK_FULL_TITLE
-"File Write Error"
-
-
-WIN_IMPROPER_QUIT_BODY
-"It appears that Call of Duty: Black Ops III did not quit properly the last time it ran.
-Do you want to run the game in safe mode?
-
-This is recommended for most people.
-It will change your system settings but not your controls."
-
-
-WIN_IMPROPER_QUIT_TITLE
-"Run In Safe Mode?"
-
-
-WIN_ERROR
-"Fatal Error"
-
-WIN_NO_STEAM
-"Steam must be running to play this game."
-
-WIN_OUT_OF_MEM_BODY
-"Out of memory error.  You are probably low on hard disk space."
-
-
-WIN_OUT_OF_MEM_TITLE
-"Out of memory error"
-
-
-WIN_UNABLE_LOAD_DLL_BODY
-"Unable to load a DLL.  Possibly due to low memory, insufficient hard drive space, or missing DLL files."
-
-
-WIN_DIRECTX_INIT_TITLE
-"DirectX Error"
-
-WIN_DIRECTX_INIT_BODY
-"DirectX encountered an unrecoverable error.
-
-Check the readme for possible solutions."
+Factors that affect errors
+Spelling errors have traditionally been classified into
+four descriptive types: Deletion, Insertion, Substitution
+and Transposition (Damerau, 1964). For each
+of these types, we investigated the potential causes
+of error generation and correction, following previous
+work (Aramaki et al., 2010; Zheng et al., 2011).
+Physical factors: (1) motor control of hands and fingers;
+(2) distance between the keys; Visual factors:
+(3) visual similarity of characters; (4) position in
+a word; (5) same character repetition; Phonological
+factors: (6) phonological similarity of characters/
+words.
+In what follows, our discussion is based on the
+frequency ratio of particular error types, where the
+frequency ratio refers to the number of cases in
+spelling errors divided by the total number of cases
+in all data. For example, the frequency ratio of consonant
+deletion is calculated by dividing the number
+of missing consonants in errors by the total number
+of consonants.
+4.3 Corrected vs. uncorrected errors in English
+In this subsection, we compare corrected and uncorrected
+errors of English, trying to uncover what factors
+facilitate the error correction.
+Error types (Figure 3) Errors in en keystroke are
+dominated by Substitution, while Deletion errors are
+the most common in en common, indicating that
+2The data is available for research purposes under http:
+//research.microsoft.com/research/downloads/
+details/4eb8d4a0-9c4e-4891-8846-7437d9dbd869/
+details.aspx
+3http://en.wikipedia.org/wiki/Wikipedia:
+Lists of common misspellings/For machines
+4http://www.spellgood.net/sitemap.html
+ja_keystroke
+en_keystroke
+en_common
+Deletion
+Insertion
+Substitution
+Transposition
+Ratio (%)
+0 20 40 60 80 100
+Figure 3: Ratios of error types
+Substition
+Similarity
+Freq.
+0.000
+Similarity
+Freq.
+0.000
+Similarity
+Freq.
+0.000
+0.30 0.90
+0.30 0.90
+0.30 0.90
+en_common en_keystroke ja_keystroke
+Figure 4: Visual similarities
+of characters in substitution
+errors
+0 20 40 60 80 100
+Deletion
+0−base position / (word length−1) (%)
+Density
+0 20 40 60 80 100
+Insertion
+0−base position / (word length−1) (%)
+Density
+0 20 40 60 80 100
+Substitution
+0−base position / (word length−1) (%)
+Density
+0 20 40 60 80 100
+Transposition
+0−base position / (word length−1) (%)
+Density
+en_common en_keystroke ja_keystroke
+Figure 5: Positions of errors within words
+Substitution mistakes are easy to catch, while Deletion
+mistakes tend to escape our attention. Zheng
+et al. (2011) reports that their pinyin correction errors
+are dominated by Deletion, which suggests that
+their log does in fact reflect the characteristics of corrected
+errors.
+Position of error within a word (Figure 5) In
+en keystroke, Deletion errors at the word-initial position
+are the most common, while Insertion and
+Substitution errors tend to occur both at the beginning
+and the end of a word. In contrast, in
+en common, all error types are more prone to occur
+word-medially. This means that errors at word
+edges are corrected more often than the wordinternal
+errors, which can be attributed to cognitive
+effect known as the bathtub effect (Aitchison, 1994),
+which states that we memorize words at the periphery
+most effectively in English.
+Effect of character repetition (Figure 6) Deletion
+errors where characters are repeated, as in
+tomorow!tomorrow, is observed significantly
+more frequently than in a non-repeating context in
+en common, but no such difference is observed in
+en keystroke, showing that visually conspicuous errors
+tend to be corrected.

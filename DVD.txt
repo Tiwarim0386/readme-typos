@@ -1,7 +1,52 @@
-1. Stup_MP3.exe, Stup_MP3-1.bin, dsk1.bin, atorun.inf
-
-2. dsk2.bin
-
-3. dsk3_1.bin, dsk3_2.bin, dsk3_3.bin, dsk3_4.bin, dsk3_5.bin
-
-4. dsk4.bin
+1. Introduction
+People mainly operate computers through a keyboard inter-
+face. However, they often make spelling errors when using
+a keyboard; e.g., hitting an adjacent key, or using phonolog-
+ically similar letters. In our study, we define spelling errors
+as (1) a typo from an incorrect keyboard operation, and (2)
+a spelling confusion from an incorrect identification.
+Baba and Suzuki (2012) introduced two types of spelling
+errors: (1) spelling errors that people do not notice while
+typing (hereafter called uncorrected spelling errors), and
+(2) spelling errors that people correct while typing (here-
+after called corrected spelling errors). The former can be a
+great source of online spelling corrections, while the latter
+have only been studied recently.
+Detection and correction of spelling errors have been
+studied over the last few decades. In particular, the
+emergence of the web has created a large amount of
+consumer-generated texts, which include countless num-
+bers of spelling errors. To overcome the problem of noisy
+texts, researchers have extracted spelling errors from web
+chatter by crawling through Twitter data (Aramaki et al.,
+2010) and from input logs by utilizing Amazon’s Mechan-
+ical Turk (Baba and Suzuki, 2012). However, the former
+study does not guarantee the correctness of the extracted
+spelling errors, and the latter study includes the cost of
+crowdsourcing.
+On the other hand, studies using gamification have become
+popular in the NLP literature (Deterding et al., 2011; Ku-
+maran et al., 2014; Vannella et al., 2014; Rodrigues and
+Rytting, 2012). Gamification allows us to obtain resources
+without paying users by carefully designing a game suitable
+for information extraction.
+In particular, Rodrigues and Rytting (2012) proposed to ex-
+tract English spelling errors by using a word-typing game.
+This game includes the intended word and does not require
+the cost of crowdsourcing. However, the writing process
+of a word-typing game may differ from the usual writing
+process (e.g., writing a document).
+Thus, one of the purposes of this study was to show that we
+can regard typing-game logs as a source of spelling errors.
+We implemented a word-typing game in two different con-
+figurations and compared the extracted spelling errors with
+those of Baba and Suzuki (2012).
+The main contributions of this paper are as follows.
+ We show that corrected spelling errors extracted from
+a typing game are similar to the spelling errors ex-
+tracted from the usual writing process (Baba and
+Suzuki, 2012).
+ Because the typing game allows us to extract correct
+pairs of intended word and actual input, we can ex-
+tract more exact uncorrected spelling errors than what
+previous works did.

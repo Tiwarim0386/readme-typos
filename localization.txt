@@ -1,4 +1,5 @@
 Factors that affect errors
+
 Spelling errors have traditionally been classified into
 four descriptive types: Deletion, Insertion, Substitution
 and Transposition (Damerau, 1964). For each
@@ -11,6 +12,9 @@ Physical factors: (1) motor control of hands and fingers;
 a word; (5) same character repetition; Phonological
 factors: (6) phonological similarity of characters/
 words.
+
+
+
 In what follows, our discussion is based on the
 frequency ratio of particular error types, where the
 frequency ratio refers to the number of cases in
@@ -19,6 +23,9 @@ in all data. For example, the frequency ratio of consonant
 deletion is calculated by dividing the number
 of missing consonants in errors by the total number
 of consonants.
+
+
+
 4.3 Corrected vs. uncorrected errors in English
 In this subsection, we compare corrected and uncorrected
 errors of English, trying to uncover what factors
@@ -42,6 +49,9 @@ Substitution
 Transposition
 Ratio (%)
 0 20 40 60 80 100
+
+
+
 Figure 3: Ratios of error types
 Substition
 Similarity
@@ -57,6 +67,9 @@ Freq.
 0.30 0.90
 0.30 0.90
 en_common en_keystroke ja_keystroke
+
+
+
 Figure 4: Visual similarities
 of characters in substitution
 errors
@@ -77,6 +90,8 @@ Transposition
 0−base position / (word length−1) (%)
 Density
 en_common en_keystroke ja_keystroke
+
+
 Figure 5: Positions of errors within words
 Substitution mistakes are easy to catch, while Deletion
 mistakes tend to escape our attention. Zheng
